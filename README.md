@@ -18,3 +18,4 @@
 #### Control the Dinosaur Game
 - I write a Python script on the computer: receive the “jump” signal from the ESP32 via Serial, Use ``pyautogui`` to press the Space key.
 - Result: When I jump, the dinosaur jumps too
+https://drive.google.com/file/d/1CFgaTBuLZ-zF9XM9gqTpZkKkgTZ2_6Ue/view?usp=sharing 
